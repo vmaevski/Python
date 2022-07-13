@@ -8,5 +8,6 @@ def multiplicationNumbers(n):
         list.append(list[-1] * i)
     return list
 
+
 n = 4
-print(f'N = {n}, тогда {multiplicationNumbers(n)}')
+print(f"N = {n}, тогда {multiplicationNumbers(n)}")
