@@ -77,9 +77,7 @@ print(inverted)
 for i in 1, 2, 3, 4:
     print(i**2)
 
-list = [1, 2, 3, 4, 5]
-for i in list:
-    print(i)
+
 # range
 r = range(10)
 for i in r:
