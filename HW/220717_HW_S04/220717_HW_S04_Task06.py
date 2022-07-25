@@ -16,3 +16,5 @@ with open("220717_HW_S04_Task06_.txt", "r") as file:
                 print(f"У сотудника {data[i-1]} оклад меньше 20тр")
     averageSalary /= len(data) / 2
     print(f"Средний оклад = {averageSalary}")
+
+    l
