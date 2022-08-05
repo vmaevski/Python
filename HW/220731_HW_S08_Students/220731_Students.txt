@@ -1,0 +1,10 @@
+surname;Denisov;Ivanov;Petrov;Stepanov;Nekrasova;Kokonova;Sokolova;Prohorov;Kuchernko
+name;Denis;Ivan;Petr;Stepan;Natal`ia;Kseniia;Evgeniia;Prohor;Andrei`
+middle_name;Denisovich;Ivanovich;Petrovich;Stepanovich;Nicolaevna;Vladimirovna;Alexanderovna;Prohorovich;Mihai`lovich
+birth_year;2010;2012;2012;2012;2012;2012;2010;2010;2010
+class;6B;5A;5A;5A;5A;5A;6B;6B;6B
+row;1;1;1;2;2;3;1;2;2
+desk;1;1;1;1;1;1;1;1;1
+variant;1;1;2;1;2;1;2;1;2
+status;4;5;4;3;4;5;4;3;4
+foreign_language_office;101;101;101;102;102;102;103;103;103
